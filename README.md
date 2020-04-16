@@ -22,3 +22,5 @@
 #### 시간복잡도:O(kn)
 #### 장점: Bubble sort와 마찬가지로 이 또한 코드 구현이 비교적 간단하다.
 #### Conventional Selection Sort와 차이가 좀 있다. k번째로 작은 수 찾는 알고리즘이기 때문.
+![Selection](https://user-images.githubusercontent.com/61732687/79461927-caa84680-8031-11ea-9dec-55f3fe6347b3.png)
+
