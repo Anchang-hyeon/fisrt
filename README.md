@@ -1,5 +1,4 @@
 # Place for Studying Algorithm
-#
 ## I will continue to *run* until the day I become a developer.
 #
 #
