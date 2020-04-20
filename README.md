@@ -1,4 +1,3 @@
-# Place for Studying Algorithm
 ## I will continue to *run* until the day I become a developer.
 #
 ### 1.Bubble Sort(2020/04/09)
