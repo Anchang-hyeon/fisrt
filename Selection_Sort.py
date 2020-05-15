@@ -5,5 +5,5 @@ def Selection_Sort(l,k):
         for j in range(i+1,num):
             if l[minindex]>l[j]:
                 minindex=j
-    l[i],l[minindex]=l[minindex],l[i]
+        l[i],l[minindex]=l[minindex],l[i]
     return(l[k-1])
